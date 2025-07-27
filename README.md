@@ -30,9 +30,10 @@ An adaptive learning rate optimizer that scales the learning rate based on histo
 
 ##  Visualization of Adagrad and Adadelta
 
-<img src="assets/gradient_descent_plot.png" width="500">
-<br>
-<sub>Surface plot of the objective function with descent paths</sub>
+![contour](project/contour.png)
+![plot](project/plot.png)
+![f1plot](project/f1plot.png)
+![f2plot](project/f2plot.png)
 
 ---
 

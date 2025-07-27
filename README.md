@@ -28,7 +28,7 @@ An adaptive learning rate optimizer that scales the learning rate based on histo
 
 ---
 
-## 📷 Visualization
+##  Visualization of Adagrad and Adadelta
 
 <img src="assets/gradient_descent_plot.png" width="500">
 <br>
@@ -44,7 +44,7 @@ An adaptive learning rate optimizer that scales the learning rate based on histo
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python 
 - NumPy
